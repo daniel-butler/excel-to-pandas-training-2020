@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.pyc
+venv
+data/
+extras/
+notebooks/
